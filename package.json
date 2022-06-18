@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcobessa/revision_ts_clean_code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcobessa/revision_ts_clean_code/issues"
+  },
+  "homepage": "https://github.com/marcobessa/revision_ts_clean_code#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
